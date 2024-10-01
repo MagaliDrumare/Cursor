@@ -1,1 +1,2 @@
-# Cursor-Replit-Agent-
+# Cursor
+
