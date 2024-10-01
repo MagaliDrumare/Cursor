@@ -22,6 +22,6 @@ Cursor is designed to work with a variety of programming languages, including Py
 3. **Reduced errors**: Cursor's code review and correction features can help reduce errors and bugs in code.
 
 Overall, Cursor is a powerful tool for developers that can help them write code more efficiently and effectively.
-https://www.cursor.com/
+- https://www.cursor.com/
 
 
