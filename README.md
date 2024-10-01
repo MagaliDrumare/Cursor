@@ -23,5 +23,6 @@ Cursor is designed to work with a variety of programming languages, including Py
 
 Overall, Cursor is a powerful tool for developers that can help them write code more efficiently and effectively.
 - https://www.cursor.com/
+- /Users/magalidrumare/.cursor-tutor/llm_quiz.py
 
 
